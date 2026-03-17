@@ -1,4 +1,4 @@
-module consul
+module github.com/Lilong-maker/consul
 
 go 1.25.8
 
